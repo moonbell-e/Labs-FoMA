@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+C:\Users\Айгерим\source\repos\ОСА\Functions.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\ОСА\Functions.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\ОСА\Functions.cpp(145,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ОСА.vcxproj -> C:\Users\Айгерим\source\repos\ОСА\Debug\ОСА.exe

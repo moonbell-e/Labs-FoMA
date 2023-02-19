@@ -1,0 +1,4 @@
+﻿  Лаб4-5.cpp
+C:\Users\Айгерим\source\repos\Лаб4-5\Лаб4-5.cpp(104,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Айгерим\source\repos\Лаб4-5\Лаб4-5.cpp(91): warning C4715: 'search': not all control paths return a value
+  Лаб4-5.vcxproj -> C:\Users\Айгерим\source\repos\Лаб4-5\Debug\Лаб4-5.exe

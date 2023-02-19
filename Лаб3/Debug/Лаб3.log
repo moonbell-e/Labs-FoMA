@@ -1,0 +1,19 @@
+﻿  Лаб3.cpp
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(141,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(149,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(155,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(138,10): warning C4101: 'K': unreferenced local variable
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(438,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(446,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(452,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(435,10): warning C4101: 'K': unreferenced local variable
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(640,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(206): warning C4715: 'SimplyLinkedList::FindFIO': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(230): warning C4715: 'SimplyLinkedList::FindBillNumber': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(254): warning C4715: 'SimplyLinkedList::FindBillAmount': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(278): warning C4715: 'SimplyLinkedList::FindDate': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(502): warning C4715: 'DoublyLinkedList::FindFIO': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(548): warning C4715: 'DoublyLinkedList::FindBillAmount': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(525): warning C4715: 'DoublyLinkedList::FindBillNumber': not all control paths return a value
+C:\Users\Айгерим\source\repos\Лаб3\Лаб3.cpp(571): warning C4715: 'DoublyLinkedList::FindDate': not all control paths return a value
+  Лаб3.vcxproj -> C:\Users\Айгерим\source\repos\Лаб3\Debug\Лаб3.exe

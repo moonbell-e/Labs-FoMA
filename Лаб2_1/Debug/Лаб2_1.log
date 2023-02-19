@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Айгерим\source\repos\Лаб2_1\Source.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб2_1\Source.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Айгерим\source\repos\Лаб2_1\Source.cpp(145,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Лаб2_1.cpp
+  Generating Code...
+  Лаб2_1.vcxproj -> C:\Users\Айгерим\source\repos\Лаб2_1\Debug\Лаб2_1.exe
